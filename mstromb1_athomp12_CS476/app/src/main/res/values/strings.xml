@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CS476</string>
+    <string name="app_description">This app demonstrates the basic primitives of energy/power/battery management from the Android framework.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="how_to_1">First, select a value from the dropdown menu below.</string>
+    <string name="how_to_2">Then click \'Start\' to begin the long and boring task.</string>
+    <string name="spinner_prompt">Select a value</string>
+    <string-array name="battery_options">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="start_button">START</string>
+    <string name="reset_button">RESET</string>
+    <string name="timer_format">00:00</string>
+</resources>
